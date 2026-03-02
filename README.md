@@ -1,5 +1,6 @@
 
 ## ✨ tech girl  
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F77EAB&width=435&lines=%CA%9A+I'm+20+years+old)](https://git.io/typing-svg)
 
 ---
@@ -37,6 +38,18 @@ Essas coisas fazem parte de quem eu sou tanto quanto a tecnologia 💗
 
 <## 📊 github stats
 
+## 📊 github stats
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=dracula" 
+    height="150"
+  />
+  <img 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=dracula" 
+    height="150"
+  />
+</p>
 
 ---
 
