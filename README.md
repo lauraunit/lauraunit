@@ -1,65 +1,81 @@
 <div align="center">
 
-# ✨ Oi! Eu sou Laura Almeida Coelho ✨
+✨ tech girl  
+### ʚ estudante de Análise e Desenvolvimento de Sistemas ɞ
 
 </div>
 
 ---
 
-## ✦ Sobre mim
+## 🌷 sobre mim
 
-- 🎓 Sou estudante de **Análise e Desenvolvimento de Sistemas**
-- 💻 A tecnologia para mim é mais do que código — é a possibilidade de transformar ideias em soluções reais
-- 🔐 Tenho interesse em atuar com **Cibersegurança** ou como **Desenvolvedora Fullstack**
-- 📚 Gosto de estudar novas linguagens e faço cursos por fora para continuar evoluindo
-- 🚀 Estou sempre buscando crescimento profissional e novos desafios
+Olá, meu nome é **Laura**, estou no **3° período de Análise e Desenvolvimento de Sistemas**.
 
----
+Escolhi tecnologia porque gosto da ideia de construir coisas que começam como simples linhas de código e se transformam em algo real. Programar, para mim, é aprender a pensar melhor, resolver problemas e evoluir um pouco todos os dias.
 
-## 🌷 Um pouco sobre mim além da tecnologia
+Atualmente estou estudando **C** e me aprofundando em **Front-end**, entendendo melhor tanto a lógica quanto a parte visual das aplicações.
 
-- 🎮 Gosto de jogar
-- 📖 Amo ler
-- ✍️ Escrevo poesias
-- 🎧 Adoro ouvir música
-- 🥁 Estou aprendendo a tocar bateria
+Tenho interesse em seguir na área de **Cibersegurança** ou atuar como **Fullstack**, e gosto de fazer cursos por fora para continuar crescendo e explorando novas linguagens.
 
-Sou uma pessoa **focada, dedicada, organizada e que gosta de trabalhar em equipe** 🤝
+Sou focada, dedicada, organizada e gosto muito de trabalhar em equipe, acredito que crescer junto é sempre melhor.
 
 ---
 
-## 📊 GitHub Stats
+## 🎀 um pouco além da tecnologia
+
+Fora da programação, eu gosto de:
+
+- 🎮 jogar  
+- 📖 ler  
+- ✍️ escrever poesias  
+- 🎧 ouvir música  
+- 🥁 aprender bateria  
+- 🎬 assistir filmes 
+
+---
+
+## 📊 github stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" 
+    height="150" 
+    alt="stats graph" 
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=SEUUSUARIO&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" 
+    height="150" 
+    alt="languages graph" 
+  />
 </div>
 
 ---
 
-## 🧰 My Tools ✨
+## 🧰 my tools
 
-### ⭐ Languages
-<img src="https://skillicons.dev/icons?i=php,c,python,html,css,js&theme=dark" />
+<p align="center">
+  ferramentas que uso no meu dia a dia e continuo aperfeiçoando a cada novo projeto ✨
+</p>
 
-### 🗄️ Data Base
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
+### 💻 linguagens
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,c,python,html,css,js&theme=dark" />
+</p>
 
-### 🛡️ Cybersecurity
-<img src="https://skillicons.dev/icons?i=linux&theme=dark" />
+### 🗄️ banco de dados
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
+</p>
 
-### 🧩 IDEs
-<img src="https://skillicons.dev/icons?i=vscode&theme=dark" />
+### 🧩 ide
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" />
+</p>
 
 ---
 
-## 📫 Contact me
+## 🐍 snake
 
-<div>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:seuemail@email.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SEUUSUARIO/SEUUSUARIO/output/github-contribution-grid-snake.svg" />
 </div>
