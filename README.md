@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=ff91a4"
+/>
 
 ## ✨ tech girl  
 
@@ -36,13 +38,9 @@ Essas coisas fazem parte de quem eu sou tanto quanto a tecnologia 💗
 
 ## 📊 github stats
 
-<## 📊 github stats
-
-## 📊 github stats
-
 <p align="center">
   <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=dracula" 
+    src=https://github-readme-stats.vercel.app/api?lauraunit=anuraghazra&theme=dracula_icons=true
     height="150"
   />
   <img 
@@ -53,21 +51,21 @@ Essas coisas fazem parte de quem eu sou tanto quanto a tecnologia 💗
 
 ---
 
-## 🧰 my tools
+## 🌸 my tools
 
 
   ferramentas que uso no meu dia a dia e continuo aperfeiçoando a cada novo projeto ✨
 
-### ⭐ Languages
+### 🍓 Languages
 <img src="https://skillicons.dev/icons?i=php,c,python,html,css,js&theme=dark" />
 
-### 🗄️ Data Base
+### 🌼 Data Base
 <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
 
-### 🛡️ Cybersecurity
+### ⚔️ Cybersecurity
 <img src="https://skillicons.dev/icons?i=linux&theme=dark" />
 
-### 🧩 IDEs
+### 🍰 IDEs
 <img src="https://skillicons.dev/icons?i=vscode&theme=dark" />
 
 ---
