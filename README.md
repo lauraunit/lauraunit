@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=ff91a4"
 />
 
-## ✨ tech girl  
+## ✨ ⋆. 𐙚˚࿔ tech girl 𝜗𝜚˚⋆
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F77EAB&width=435&lines=%CA%9A+I'm+20+years+old)](https://git.io/typing-svg)
 
@@ -9,7 +9,7 @@
 
 ## 🌷 sobre mim
 
-Olá, meu nome é **Laura**, estou no **3° período de Análise e Desenvolvimento de Sistemas**.
+₊˚⊹ ᰔ Olá, meu nome é **Laura**, estou no **3° período de Análise e Desenvolvimento de Sistemas**.
 
 Escolhi tecnologia porque gosto da ideia de construir coisas que começam como simples linhas de código e se transformam em algo real. Programar, para mim, é aprender a pensar melhor, resolver problemas e evoluir um pouco todos os dias.
 
@@ -21,7 +21,7 @@ Sou focada, dedicada, organizada e gosto muito de trabalhar em equipe, acredito 
 
 ---
 
-## 🎀 um pouco além da tecnologia
+## 🎀 Um pouco sobre minha vida pessoal
 
 Fora da programação, eu tenho coisas que realmente fazem meus olhos brilharem:
 
@@ -40,11 +40,11 @@ Essas coisas fazem parte de quem eu sou tanto quanto a tecnologia 💗
 
 <p align="center">
   <img 
-    src=https://github-readme-stats.vercel.app/api?lauraunit=anuraghazra&theme=dracula_icons=true
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lauraunit&show_icons=true&theme=tokyonight"
     height="150"
   />
   <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=dracula" 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lauraunit&layout=compact&theme=dracula"
     height="150"
   />
 </p>
