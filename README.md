@@ -23,30 +23,27 @@ Sou focada, dedicada, organizada e gosto muito de trabalhar em equipe, acredito 
 
 ## 🎀 Um pouco sobre minha vida pessoal
 
-Fora da programação, eu tenho coisas que realmente fazem meus olhos brilharem:
+Fora da programação, existem coisas que fazem meu coração sorrir:
 
-- 🎮 Eu amo jogar, é o meu momento de entrar em outros mundos e viver histórias diferentes.
-- 📖 Tenho um carinho enorme por livros, porque eles sempre me ensinam algo novo ou me fazem sentir algo profundo.
-- ✍️ Escrever poesias é uma das minhas formas favoritas de organizar sentimentos e transformar pensamentos em arte.
-- 🎧 Música está presente em quase todos os meus dias 
-- 🥁 Estou aprendendo bateria e cada evolução, mesmo pequena, me deixa muito animada.
-- 🎬 E eu simplesmente amo assistir filmes, é aquele momento em que eu paro tudo e mergulho completamente na história.
+- 🎮 Amo jogar e me perder em outros mundos.
+- 📖 Livros sempre me acolhem e me ensinam algo novo.
+- ✍️ Escrevo poesias quando preciso transformar sentimentos em palavras.
+- 🎧 Música faz parte da minha rotina e da minha energia.
+- 🥁 Aprender bateria tem sido um desafio que eu adoro.
+- 🎾 Quero começar no tênis e me desafiar ainda mais.
+- 🎬 Filmes são meu momento de pausa e inspiração.
 
-Essas coisas fazem parte de quem eu sou tanto quanto a tecnologia 💗
+Essas pequenas paixões fazem parte de quem eu sou 💗
 
 ---
 
 ## 📊 github stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lauraunit&show_icons=true&theme=tokyonight"
-    height="150"
-  />
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lauraunit&layout=compact&theme=dracula"
-    height="150"
-  />
+  <img height="150"
+       src="https://github-readme-stats.vercel.app/api?username=lauraunit&show_icons=true&theme=dracula" />
+  <img height="150"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauraunit&layout=compact&langs_count=6&theme=dracula" />
 </p>
 
 ---
