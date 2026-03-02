@@ -37,16 +37,6 @@ Essas coisas fazem parte de quem eu sou tanto quanto a tecnologia 💗
 
 <## 📊 github stats
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lauraunit&show_icons=true&theme=dracula" 
-    height="150"
-  />
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lauraunit&layout=compact&theme=dracula" 
-    height="150"
-  />
-</p>
 
 ---
 
