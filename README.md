@@ -1,9 +1,6 @@
-<div align="center">
 
-✨ tech girl  
-### ʚ estudante de Análise e Desenvolvimento de Sistemas ɞ
-
-</div>
+##✨ tech girl  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F77EAB&width=435&lines=%CA%9A+I'm+20+years+old)](https://git.io/typing-svg)
 
 ---
 
@@ -38,12 +35,12 @@ Fora da programação, eu gosto de:
 
 <div align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" 
+    src="https://github-readme-stats.vercel.app/api?username=lauraunit&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" 
     height="150" 
     alt="stats graph" 
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=SEUUSUARIO&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=lauraunit&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" 
     height="150" 
     alt="languages graph" 
   />
@@ -53,29 +50,27 @@ Fora da programação, eu gosto de:
 
 ## 🧰 my tools
 
-<p align="center">
+
   ferramentas que uso no meu dia a dia e continuo aperfeiçoando a cada novo projeto ✨
-</p>
 
-### 💻 linguagens
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,c,python,html,css,js&theme=dark" />
-</p>
+### ⭐ Languages
+<img src="https://skillicons.dev/icons?i=php,c,python,html,css,js&theme=dark" />
 
-### 🗄️ banco de dados
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
-</p>
+### 🗄️ Data Base
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
 
-### 🧩 ide
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" />
-</p>
+### 🛡️ Cybersecurity
+<img src="https://skillicons.dev/icons?i=linux&theme=dark" />
+
+### 🧩 IDEs
+<img src="https://skillicons.dev/icons?i=vscode&theme=dark" />
 
 ---
 
-## 🐍 snake
+## 📫 Contact me
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/SEUUSUARIO/SEUUSUARIO/output/github-contribution-grid-snake.svg" />
+<div>
+  <a href="mailto:lacoeho2005@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </div>
