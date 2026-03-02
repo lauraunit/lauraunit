@@ -1,5 +1,5 @@
 
-##✨ tech girl  
+## ✨ tech girl  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F77EAB&width=435&lines=%CA%9A+I'm+20+years+old)](https://git.io/typing-svg)
 
 ---
@@ -20,31 +20,33 @@ Sou focada, dedicada, organizada e gosto muito de trabalhar em equipe, acredito 
 
 ## 🎀 um pouco além da tecnologia
 
-Fora da programação, eu gosto de:
+Fora da programação, eu tenho coisas que realmente fazem meus olhos brilharem:
 
-- 🎮 jogar  
-- 📖 ler  
-- ✍️ escrever poesias  
-- 🎧 ouvir música  
-- 🥁 aprender bateria  
-- 🎬 assistir filmes 
+- 🎮 Eu amo jogar, é o meu momento de entrar em outros mundos e viver histórias diferentes.
+- 📖 Tenho um carinho enorme por livros, porque eles sempre me ensinam algo novo ou me fazem sentir algo profundo.
+- ✍️ Escrever poesias é uma das minhas formas favoritas de organizar sentimentos e transformar pensamentos em arte.
+- 🎧 Música está presente em quase todos os meus dias 
+- 🥁 Estou aprendendo bateria e cada evolução, mesmo pequena, me deixa muito animada.
+- 🎬 E eu simplesmente amo assistir filmes, é aquele momento em que eu paro tudo e mergulho completamente na história.
+
+Essas coisas fazem parte de quem eu sou tanto quanto a tecnologia 💗
 
 ---
 
 ## 📊 github stats
 
-<div align="center">
+<## 📊 github stats
+
+<p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=lauraunit&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" 
-    height="150" 
-    alt="stats graph" 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lauraunit&show_icons=true&theme=dracula" 
+    height="150"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=lauraunit&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" 
-    height="150" 
-    alt="languages graph" 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lauraunit&layout=compact&theme=dracula" 
+    height="150"
   />
-</div>
+</p>
 
 ---
 
